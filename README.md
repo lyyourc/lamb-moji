@@ -1,6 +1,6 @@
 # lamb-moji
 
-lambda & emoji
+Yet another oh-my-zsh theme
 
 ![screen shot](./screen-shot.png)
 
